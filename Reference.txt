@@ -1,0 +1,51 @@
+davidiseminger (2023). Referencing Power Query queries - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/power-query-referenced-queries [Accessed 21 Oct. 2023].
+
+‌davidiseminger (n.d.). Optimization guide for Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization.
+
+‌davidiseminger (n.d.). Data reduction techniques for Import modeling - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction.
+
+‌davidiseminger (2023). Bi-directional relationship guidance - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/relationships-bidirectional-filtering [Accessed 21 Oct. 2023].
+
+‌davidiseminger (2023). Relationship troubleshooting guidance - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/relationships-troubleshoot.
+
+peter-myers (2023). Separate reports from models in Power BI Desktop - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/report-separate-from-model [Accessed 21 Oct. 2023].
+
+‌davidiseminger (2023). Extend visuals with report page tooltips - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/report-page-tooltips [Accessed 21 Oct. 2023].
+
+‌maggiemsft (n.d.). Data retrieval guidance for paginated reports - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-data-retrieval.
+
+‌maggiesMSFT (2023). Publish .rdl files to Power BI from Power BI Report Server and Reporting Services - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/publish-reporting-services-power-bi-service?tabs=reporting-services [Accessed 21 Oct. 2023].
+
+‌davidiseminger (2023). Monitor report performance in Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/monitor-report-performance.
+
+peter-myers (2023). Power BI migration overview - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-overview [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Prepare to migrate to Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-pre-migration-steps [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Deploy to Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-deploy-support-monitor [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Power BI implementation planning: BI strategy overview - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-overview [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Power BI implementation planning: BI strategic planning - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-strategic-planning [Accessed 21 Oct. 2023].
+
+peter-myers (2023). Power BI implementation planning: User tools and devices - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-user-tools-devices [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Power BI implementation planning: Security - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-overview [Accessed 21 Oct. 2023].
+
+‌peter-myers (2023). Power BI implementation planning: Information protection for Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection [Accessed 21 Oct. 2023].
+
+‌peter-myers (n.d.). Microsoft’s BI transformation - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-microsoft-business-intelligence-transformation.
+
+‌maggiesMSFT (n.d.). Connect to data in Power BI - documentation - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/.
+
+willthom (n.d.). Power BI for Azure users - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/powerbi-azure-landing [Accessed 21 Oct. 2023].
+
+‌davidiseminger (2023). Quickstart: Connect to data in Power BI Desktop - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data.
+
+‌davidiseminger (n.d.). Power BI data sources - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-data-sources.
+
+‌davidiseminger (n.d.). Data sources in Power BI Desktop - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources.
+
+‌davidiseminger (n.d.). Azure and Power BI - Power BI. [online] learn.microsoft.com. Available at: https://learn.microsoft.com/en-us/power-bi/connect-data/service-azure-and-power-bi.
+
+‌
