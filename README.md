@@ -6,3 +6,5 @@ It is connected to a Web API and to an excel file, and when data is added, remov
 
 Burndown Chart:
 
+![image](https://github.com/AndreEloff99/Project5-35087749/assets/88395754/e9045905-75c4-46ad-a1a3-75038e517e27)
+
